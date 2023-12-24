@@ -1,2 +1,4 @@
 profile:
   prod
+config:
+  info: "master"
