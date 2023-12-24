@@ -3,4 +3,4 @@ profile:
 label:
   dev
 config:
-  info: "main"
+  info: "dev"
