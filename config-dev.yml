@@ -2,3 +2,5 @@ profile:
   dev
 label:
   dev
+config:
+  info: "main"
