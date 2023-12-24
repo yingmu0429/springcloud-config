@@ -2,4 +2,4 @@ profile:
   dev
 
 config:
-  info: "dev"
+  info: "master"
