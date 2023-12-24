@@ -1,2 +1,4 @@
 profile:
   dev
+config:
+  info: "dev"
